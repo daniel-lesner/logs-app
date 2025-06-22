@@ -25,7 +25,7 @@ node index.js
 ## Run tests
 
 ```sh
-npm run test
+npm run test OR npm test
 ```
 
 ## Logs
