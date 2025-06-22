@@ -28,6 +28,12 @@ node index.js
 npm run test
 ```
 
+## Logs
+logs.log file must exist in project root.
+
+## Future
+The jobs object could be used to create output files such as report.json or report.log.
+
 ## Author
 
 👤 **Daniel Lesner**
