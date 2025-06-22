@@ -51,3 +51,5 @@ const getStatusFromDuration = duration => {
 };
 
 analyseLogs();
+
+module.exports = { analyseLogs };
